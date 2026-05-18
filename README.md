@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 Currently working on Web design<br><br>👥 Looking to collaborate on UI/UX projects<br><br>🌱 Currently learning figma<br><br>💬 Ask me about designing<br><br>⚡ Fun fact : "Good design is like a joke—if you have to explain it, it's probably not that good!"
+🚀 Currently learning Data Science & AI/ML
 
+📊 Exploring Python, SQL, Power BI & Analytics
+
+🎨 Combining UI/UX Design with Data-driven Thinking
+
+🤝 Open to collaboration on Tech & Creative Projects
+
+💡 Passionate about building impactful digital experiences
+
+⚡ Fun fact: “Code + Creativity = Endless Possibilities”
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Sn8a8fmv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/gaurav-jangid-211b86317/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pinterest.com/gauravjangid2089/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Gauravjangid2089@gmail.com ) 
